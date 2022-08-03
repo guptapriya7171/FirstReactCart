@@ -2,4 +2,4 @@
 
 # A Mini Project on react.js
 
-![Project Image]()
+![Project Image](https://github.com/guptapriya7171/FirstReactCart/blob/main/PrjImg.PNG)
