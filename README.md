@@ -1,4 +1,4 @@
-# FirstReactCart
+# FirstReactCart ![element workflow](https://img.shields.io/badge/Front%20End-React-red)
 
 # A Mini Project on react.js
 
